@@ -1,9 +1,7 @@
 // function slugify(title) {
 //     if (title.includes(" ")) {
 //         return title.toLowerCase().replaceAll(" ", "-");
-//     } else
-//         return title.toLowerCase();
-
+//     } 
 // }
 // console.log(slugify("Arrays for beginners")); // "arrays-for-beginners"
 // console.log(slugify("English for developer")); // "english-for-developer"
